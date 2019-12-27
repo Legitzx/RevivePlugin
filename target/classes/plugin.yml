@@ -1,0 +1,10 @@
+name: Revive
+version: 1.0-SNAPSHOT
+main: revive.reviveplugin.Reviveplugin
+authors: [LEGITZX]
+
+commands:
+  revive:
+    description: Core Revive Command.
+    usage: /revive
+    permission: revive.admin
